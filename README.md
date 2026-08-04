@@ -1,19 +1,35 @@
-# QA Portfolio
+# qa Portfolio | Linoy Nahum
 
 Hi, I'm Linoy.
 
-I'm a Junior QA Engineer.
+I'm currently preparing for my first Manual QA position by building hands-on projects and practical testing exercises.
 
-Currently preparing for my first QA position by building practical projects in Manual Testing, API Testing, SQL and Automation.
+This portfolio documents my learning journey and demonstrates my practical skills in QA.
+
 
 ## Skills
 
+### Testing
 - Manual Testing
 - API Testing
-- SQL
+- Test Case Design
+- Bug Reporting
+
+### Tools
 - Postman
-- Git
+- Git & GitHub
 - Chrome DevTools
+
+### Databases
+- SQL
+
+### Operating Systems
+- Linux
+
+### Currently Learning
+- Jira
+- CCNA
+- Automation
 
 ## Repository Structure
 
@@ -28,7 +44,7 @@ Currently preparing for my first QA position by building practical projects in M
 
 ## Goals
 
-- Practice real-world QA tasks
-- Document testing process
-- Build a professional QA portfolio
+- Build practical QA experience
+- Practice real-world testing
+- Learn industry-standard tools
 - Prepare for Junior QA interviews
