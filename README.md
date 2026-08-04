@@ -23,13 +23,11 @@ This portfolio documents my learning journey and demonstrates my practical skill
 ### Databases
 - SQL
 
-### Operating Systems
-- Linux
-
 ### Currently Learning
 - Jira
 - CCNA
 - Automation
+- Linux
 
 ## Repository Structure
 
