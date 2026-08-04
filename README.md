@@ -8,12 +8,12 @@ Currently preparing for my first QA position by building practical projects in M
 
 ## Skills
 
--Manual Testing
--API Testing
--SQL
--Postman
--Git
--Chrome DevTools
+- Manual Testing
+- API Testing
+- SQL
+- Postman
+- Git
+- Chrome DevTools
 
 ## Repository Structure
 
